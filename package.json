@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "syrupsplash.in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyrupSplashin/SyrupSplash.in.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyrupSplashin/SyrupSplash.in/issues"
+  },
+  "homepage": "https://github.com/SyrupSplashin/SyrupSplash.in#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "atropos": "^1.0.1",
+    "vanilla-tilt": "^1.7.2"
+  }
+}
